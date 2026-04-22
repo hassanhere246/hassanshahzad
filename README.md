@@ -128,7 +128,7 @@ cd MERN-Hotel_Management_System
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-🐍 Python Projects
+🐍 Python Projects 01
 ________________________________________________________________________________________________________________________________________________
 A collection of simple Python projects built for learning.
 
@@ -136,6 +136,15 @@ A collection of simple Python projects built for learning.
 - Basic Python practice programs
 
 🔗 GitHub: https://github.com/HassanShahzad1294/python-project
+
+🐍 Python Project 02
+________________________________________________________________________________________________________________________________________________
+A simple Python project to manage tasks: add, view, and delete tasks
+
+TO Do List
+
+🔗 github.com/HassanShahzad1294/python-project
+
 
 
 
