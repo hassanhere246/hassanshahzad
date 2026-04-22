@@ -9,13 +9,15 @@ ________________________________________________________________________________
 • ⚡ Passionate about learning and real-world development
 
 🌐 Socials:
-____________________________________________________________________________________________________________________________________________________
-📷 Instagram: @hassanshahzad1294  
-📧 Email:  hassanhere246@gmail.com
+__________________________________________________________________________________________________________________________________________________
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hassanshahzad1294)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanhere246@gmail.com)
 
 💻 Tech Stack:
-____________________________________________________________________________________________________________________________________________________
-- 🌐 Frontend: HTML, CSS, JavaScript, React  
-- ⚙️ Backend: Node.js (basics), Python  
-- 🗄️ Database: MongoDB (basic)  
-- 🔧 Tools: Git, GitHub, VS Code  
+___________________________________________________________________________________________________________________________________________________
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
